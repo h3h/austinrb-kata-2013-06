@@ -1,6 +1,3 @@
-require 'rubygems'
-require 'bundler/setup'
-require 'goliath'
 require 'em-synchrony/activerecord'
 require 'yaml'
 
