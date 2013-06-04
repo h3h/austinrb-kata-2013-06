@@ -1,5 +1,6 @@
 source "https://rubygems.org/"
 
+gem 'rack', '~> 1.4.0'
 gem 'rack-fiber_pool'
 gem 'mysql2'
 gem 'activerecord'
@@ -15,3 +16,4 @@ gem 'rake'
 gem 'rspec'
 gem 'pry'
 gem 'rb-readline'
+gem 'rails', '3.2.11'
